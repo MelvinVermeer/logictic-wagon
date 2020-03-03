@@ -1,0 +1,11 @@
+{
+    "name": "logistic-wagon",
+    "version": "0.0.1",
+    "title": "Logistic wagon",
+    "author": "Melvin Vermeer",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "This mod adds a cargo wagon that can be used by bots"
+}   

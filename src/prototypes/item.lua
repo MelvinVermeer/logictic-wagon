@@ -16,6 +16,9 @@ wagon.name = "logistic-wagon"
 wagon.icons = {{icon = wagon.icon, tint = {r = 0, g = 0, b = 1, a = 0.3}}}
 wagon.minable.result = "logistic-wagon"
 
+-- This option seems to have no effect
+-- wagon.allow_robot_dispatch_in_automatic_mode = true 
+
 local recipe = {
     type = "recipe",
     name = "logistic-wagon",
